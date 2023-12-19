@@ -1,0 +1,36 @@
+body {
+    background-color: pink;
+}
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 3rem;
+    color: rgb(235, 10, 85);
+    text-align: center;
+}
+
+p {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 2rem;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.divborder {
+    color: white;
+    width: 50%;
+    display: flex;
+    float: right;
+    margin-right: 80px;
+}
+
+.diveborder {
+    width: 22%;
+    margin-left: 80px;
+}
+
+.conatiner-img {
+    border: 5px solid white;
+    width: 100%;
+
+}
